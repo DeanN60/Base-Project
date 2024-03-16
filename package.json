@@ -1,8 +1,8 @@
 {
-    "name": "base-project",
+    "name": "learning-styles",
     "version": "1.0.0",
-    "description": "Base HTML Project",
-    "main": "index.html",
+    "description": "",
+    "main": "index.js",
     "scripts": {
         "copy:css": "copyfiles -u 1 ./src/css/**.css dist",
         "copy:assets": "copyfiles -u 1 ./src/assets/**.* dist",
