@@ -4,7 +4,7 @@
     blockquote{border-left: 4px solid #0aa}
 </style>
 
-# Base Project
+# CSS Collapsing Margins Project
 
 This is the base project for creating HTML and SCSS/CSS.
 
