@@ -4,7 +4,7 @@
     blockquote{border-left: 4px solid #0aa}
 </style>
 
-# Base Project Project
+# Base Project
 
 This is the base project for creating HTML and SCSS/CSS.
 
